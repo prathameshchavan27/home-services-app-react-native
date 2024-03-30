@@ -22,7 +22,7 @@ For IOS
 npm run iOS
 ```
 
-![alt text](https://github.com/prathameshchavan27/home-services-app-react-native/blob/master/screenshots/Screenshot%202024-03-30%20at%2012.20.18%E2%80%AFPM.png?raw=true)
+<img src="https://github.com/prathameshchavan27/home-services-app-react-native/blob/master/screenshots/Screenshot%202024-03-30%20at%2012.20.18%E2%80%AFPM.png?raw=true" width="250" height="600"/>
 
 
 ## License
