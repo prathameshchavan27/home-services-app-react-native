@@ -21,8 +21,7 @@ For IOS
 ```bash
 npm run iOS
 ```
-
-<img src="https://github.com/prathameshchavan27/home-services-app-react-native/blob/master/screenshots/Screenshot%202024-03-30%20at%2012.20.18%E2%80%AFPM.png?raw=true" width="250" height="500"/>
+|<img src="https://github.com/prathameshchavan27/home-services-app-react-native/blob/master/screenshots/Screenshot%202024-03-30%20at%2012.20.18%E2%80%AFPM.png?raw=true" width="230" height="460"/>|<img src="https://github.com/prathameshchavan27/home-services-app-react-native/blob/master/screenshots/Screenshot%202024-03-30%20at%2012.22.09%E2%80%AFPM.png?raw=true" width="230" height="460"/>|<img src="https://github.com/prathameshchavan27/home-services-app-react-native/blob/master/screenshots/Screenshot%202024-03-30%20at%2012.22.36%E2%80%AFPM.png" width="230" height="460"/>|<img src="https://github.com/prathameshchavan27/home-services-app-react-native/blob/master/screenshots/Screenshot%202024-03-30%20at%2012.22.58%E2%80%AFPM.png?raw=true" width="230" height="460"/>|<img src="https://github.com/prathameshchavan27/home-services-app-react-native/blob/master/screenshots/Screenshot%202024-03-30%20at%2012.23.42%E2%80%AFPM.png?raw=true" width="230" height="460"/>|<img src="https://github.com/prathameshchavan27/home-services-app-react-native/blob/master/screenshots/Screenshot%202024-03-30%20at%2012.24.05%E2%80%AFPM.png?raw=true" width="230" height="460"/> 
 
 
 ## License
